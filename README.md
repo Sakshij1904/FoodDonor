@@ -1,5 +1,4 @@
 
-FoodDonor
 FoodDonor is a Food Donation Management System developed using PHP, Laravel and MySQL. It connects food donors with NGOs to reduce food wastage and help people in need.
 Features
 User Registration
